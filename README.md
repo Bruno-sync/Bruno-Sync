@@ -1,16 +1,19 @@
-### Hi there 👋
+<h4 align="left">Olá👋, Eu sou o Bruno!</h4>
+<h3 align="center">Sou um desenvolvedor front-end, ainda em fase de desenvolvimento pessoal cada dia mais!</h3 >
 
-<!--
-**Bruno-sync/Bruno-Sync** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bruno-sync&label=Profile%20views&color=0e75b6&style=flat" alt="bruno-sync" /> </ p>
 
-Here are some ideas to get you started:
+- 🌱 Atualmente estou aprendendo **Python, Java**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Como me encontrar **Brunoferreiraok2@gmail.com**
+
+<h3 align="left">Conecte-se comigo:</h3>
+<p align ="left">
+<a href="https://fb.com/bruno ferreira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bruno ferreira" height="30" width="40" /></a>
+<a href="https://instagram.com/@iihbruno.frr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@iihbruno.frr" height="30" width="40" /></a>
+</p>
+
+<h3 align= "left">Idiomas e ferramentas:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel=" noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40 "/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com /devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www .python.org"target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width=" 40" altura="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bruno-sync&show_icons=true&locale=en" alt="bruno-sync" /></p>
