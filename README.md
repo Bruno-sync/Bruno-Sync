@@ -1,5 +1,5 @@
 <h4 align="left">Olá👋, Eu sou o Bruno!</h4>
-<h3 align="center">Sou um desenvolvedor front-end, ainda em fase de desenvolvimento pessoal cada dia mais!</h3 >
+<h3 align="center">Sou um desenvolvedor front-end, ainda em fase de desenvolvimento pessoal, cada dia aprendendo mais!</h3 >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bruno-sync&label=Profile%20views&color=0e75b6&style=flat" alt="bruno-sync" /> </ p>
 
